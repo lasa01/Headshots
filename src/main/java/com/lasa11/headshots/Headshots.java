@@ -2,7 +2,6 @@ package com.lasa11.headshots;
 
 
 
-import scala.reflect.internal.Trees.If;
 import net.minecraftforge.common.MinecraftForge;
 import cpw.mods.fml.common.Loader;
 import cpw.mods.fml.common.Mod;
