@@ -14,7 +14,7 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 public class Headshots 
 {
 	public static final String modid="headshots";
-	public static final String version="0.2";
+	public static final String version="0.3";
 	
 	
 	public static Class EntityBullet;
